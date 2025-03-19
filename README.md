@@ -13,5 +13,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracie-cooper-6aa557244)
 
 
-Hi, I'm Gracie Cooper, currently studying Physics with Theoretical Physics at the unviersity of Bath. I am currently learning C++ to prepare for Year 2 of my course! I especially enjoy modelling physics concepts and data analysis using Python. 
+Hi, I'm Gracie Cooper, currently studying Physics with Theoretical Physics at the Unviersity of Bath. I am currently learning C++ to prepare for Year 2 of my course! I especially enjoy modelling physics concepts and data analysis using Python. 
 <br><br>
